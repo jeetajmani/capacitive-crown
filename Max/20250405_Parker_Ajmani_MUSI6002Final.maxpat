@@ -57,7 +57,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 853.0, 200.566483557224274, 153.0, 33.0 ],
-					"presentation_linecount" : 2,
 					"text" : "change this based on your BT port"
 				}
 
@@ -422,8 +421,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 436.030563116073608, 215.566483557224274, 36.0, 22.0 ],
-					"text" : "port f"
+					"patching_rect" : [ 436.030563116073608, 215.566483557224274, 39.0, 22.0 ],
+					"text" : "port e"
 				}
 
 			}
