@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 463.0, 100.0, 819.0, 791.0 ],
+		"rect" : [ 317.0, 100.0, 955.0, 791.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1944,8 +1944,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1894.030563116073608, 75.817938268184662, 36.0, 22.0 ],
-					"text" : "port f"
+					"patching_rect" : [ 1894.030563116073608, 75.817938268184662, 39.0, 22.0 ],
+					"text" : "port e"
 				}
 
 			}
@@ -2112,8 +2112,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 258.030563116073608, 116.566483557224274, 39.0, 22.0 ],
-					"text" : "port e"
+					"patching_rect" : [ 258.030563116073608, 116.566483557224274, 36.0, 22.0 ],
+					"text" : "port f"
 				}
 
 			}
